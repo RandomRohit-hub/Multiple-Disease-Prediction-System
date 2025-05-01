@@ -1,5 +1,11 @@
 # 🧠 Disease Prediction Streamlit App
 
+
+https://multiple-disease-prediction-system-jnl.streamlit.app/
+
+
+
+
 This Streamlit application predicts the likelihood of three major health conditions using trained machine learning models:
 
 - 🩸 **Diabetes**
